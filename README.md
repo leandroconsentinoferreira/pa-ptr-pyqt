@@ -1,6 +1,6 @@
 # pa-ptr-pyqt
 
-## Código fonte do Software para análise de pressões traqueal e arterial
+## Código fonte do Software para análise de pressões arterial e traqueal
 ## _Source code for Arterial and Tracheal pressure analysis software_
 \
 ![Main screen / Tela principal](screen.png)
