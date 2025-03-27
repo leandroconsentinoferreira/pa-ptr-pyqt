@@ -8,7 +8,7 @@
 Software desenvolvido como parte da dissertação de mestrado na Escola Politécnica da Universidade de São Paulo\
 _Software developed as part of a Master's Degree project (Escola Politécnica / University of São Paulo)_
 
-O vídeo tutorial para utilização está disponível:\
+O vídeo tutorial para utilização está disponível no link abaixo:\
 _Video tutorial available on:_\
 https://youtu.be/EnC2EJzrk_8
 
